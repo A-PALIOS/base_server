@@ -9,8 +9,8 @@ A login template
    
 2.Install dependencies
    ```sh
-   $ npm install
+   npm install
 
 3.Run Project
    ```sh
-   $ npm run dev
+   npm run dev
