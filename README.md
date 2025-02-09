@@ -1,7 +1,11 @@
 # React + Vite 
 A login template
 
-# To start start
-$ git clone https://github.com/A-PALIOS/login_template.git
+## How to Run the Project
+
+1. Clone the repository:
+   ```sh
+   $ git clone https://github.com/A-PALIOS/login_template.git
+   
 $ npm install
 $ npm run dev
