@@ -5,7 +5,12 @@ A login template
 
 1. Clone the repository:
    ```sh
-   $ git clone https://github.com/A-PALIOS/login_template.git
+   git clone https://github.com/A-PALIOS/login_template.git
    
-$ npm install
-$ npm run dev
+2.Install dependencies
+   ```sh
+   $ npm install
+
+3.Run Project
+   ```sh
+   $ npm run dev
