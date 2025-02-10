@@ -167,7 +167,7 @@ const UserList = () => {
         <h1 className='title'>Διαχείριση Χρηστών</h1>
         {user && user.role ==="admin" && (
             <Link to={"/users/add"} className='button is-primary mb-2'>
-                <Button label="Προσθήκη Νέου Χρήστη" icon="pi pi-plus-circle"/>
+                <Button label="Προσθήκη Νέου Χρήστη" outlined icon="pi pi-plus-circle"/>
             </Link>
         )}
 

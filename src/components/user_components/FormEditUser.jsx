@@ -108,7 +108,7 @@ const FormEditUser = () => {
             
             <div className="field">
                 <div className="control">
-                    <Button type='submit' className="button is-success is-fullwidth">Ενημέρωση</Button>
+                    <Button type='submit' outlined className="button is-success is-fullwidth">Ενημέρωση</Button>
                 </div>
             </div>
         </form>
