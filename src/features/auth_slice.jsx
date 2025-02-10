@@ -83,7 +83,7 @@ export const authSlice =createSlice({
 
         
         builder.addCase(LogOut.fulfilled, (state) => {
-            state.user = null; // ✅ Clear user immediately
+            state.user = null; // Clear user immediately
             state.isSuccess = false;
             state.isLoading = false;
             state.isError = false;
